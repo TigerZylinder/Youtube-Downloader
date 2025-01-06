@@ -6,4 +6,6 @@ This program is designed to download YouTube videos with a focus on simplicity a
 - Windows operating system  
 - Python 3.11 (or later)  
 
-With these prerequisites in place, you’re ready to download videos effortlessly!  
+## How to Use  
+To start downloading, simply execute the `Start.exe` file.  
+You will be guided by the program—it tells you what to do. Most of the process is automatic, so sit back and enjoy.
