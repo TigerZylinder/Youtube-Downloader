@@ -7,10 +7,10 @@ This program is designed to download YouTube videos with a focus on simplicity a
 - Python 3.11 (or later)
 
 ## How to Use
-To start downloading, simply execute the `Start.exe` file.
-
-1. Once the program starts, a window will open prompting you to choose the path where your downloaded files will be saved.
-2. Follow the on-screen instructions provided by the program. Most of the process is automatic.
-3. Sit back and enjoy your videos offline!
+1. **Run the Program**: Simply execute the `Start.exe` file to launch the program.
+2. **Follow the CMD Window Instructions**: A Command Prompt (CMD) window will guide you through the initial setup.
+3. **Select the Download Directory**: After the CMD window, a window will open asking you to choose the directory where you want the downloaded videos to be saved.
+4. **Automatic Process**: Most of the downloading process is automated. Once you’ve selected the directory, the download will proceed without further input.
+5. **Enjoy Your Videos**: Sit back and enjoy your videos offline once the download is complete!
 
 If you encounter any issues or have questions, refer to the troubleshooting section or contact support.
