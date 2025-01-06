@@ -1,7 +1,0 @@
-{
-
-    "theme": "arc", 
-    "download_path": "%~dp0downloads", 
-    "ffmpeg_path": "%~dp0programms/ffmpeg.exe"
-
-}
