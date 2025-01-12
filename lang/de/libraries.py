@@ -4,9 +4,9 @@ import sys
 # Liste der benötigten Bibliotheken
 required_libraries = [
     'tkinter', 
-    'ttkthemes', 
-    'yt-dlp', 
-    'json'  # 'json' ist eine eingebaute Bibliothek, daher ist sie nicht in der Liste nötig
+    'customtkinter', 
+    'yt-dlp',
+    'pillow'
 ]
 
 def install_package(package):
